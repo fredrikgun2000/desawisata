@@ -87,7 +87,7 @@
         </nav>
     </header>
 
-    <div id="home" class="parallax first-section" style="background-image:url('uploads/bg-img.jpg');">
+    <div id="home" class="parallax first-section" style="background-image:url('assets/template/uploads/bg-img.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-12">
@@ -382,7 +382,7 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div class="parallax section noover" style="background-image:url('uploads/ben_img.jpg');">
+    <div class="parallax section noover" style="background-image:url('assets/template/uploads/ben_img.jpg');">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-7 col-sm-12">
@@ -474,7 +474,7 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div class="parallax section" style="background-image:url('uploads/ben_img_2.jpg');">
+    <div class="parallax section" style="background-image:url('assets/template/uploads/ben_img_2.jpg');">
         <div class="container">
             <div class="row text-left stat-wrap">
                 <div class="col-md-3 col-sm-6 col-xs-12">
@@ -676,7 +676,7 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div id="purchase" class="parallax section db" style="background-image:url('uploads/pr_bg.jpg');">
+    <div id="purchase" class="parallax section db" style="background-image:url('assets/template/uploads/pr_bg.jpg');">
         <div class="container">
             <div class="section-title text-center">
                 <h2>Started from $90.00</h2>
@@ -707,7 +707,7 @@
     </div><!-- end section -->
 
 
-    <div id="support" class="section" style="background-image:url('uploads/form_bg.jpg');">
+    <div id="support" class="section" style="background-image:url('assets/template/uploads/form_bg.jpg');">
         <div class="container">
             <div class="section-title text-center">
                 <h3>Get in Touch</h3>
