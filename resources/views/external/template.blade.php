@@ -409,8 +409,8 @@
     <div id="team" class="section wb">
         <div class="container">
             <div class="section-title text-center">
-                <h3>The Dev Team</h3>
-                <p class="lead">All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, true generator<br> on the Internet. It uses a dictionary of over..</p>
+                <h3>The Team</h3>
+                <p class="lead">Ini team ku chunks as necessary, true generator<br> on the Internet. It uses a dictionary of over..</p>
             </div><!-- end title -->
 
             <div class="row dev-list text-center">
