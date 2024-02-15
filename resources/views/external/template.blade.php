@@ -74,11 +74,7 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarApp">
                     <ul class="navbar-nav">
                         <li><a class="nav-link active" href="#home">Home</a></li>
-                        <li><a class="nav-link" href="#features">Features</a></li>
-                        <li><a class="nav-link" href="#screenshots">Screens</a></li>
-                        <li><a class="nav-link" href="#team">Team</a></li>
-                        <li><a class="nav-link" href="#pricing">Pricing</a></li>
-                        <li><a class="nav-link" href="#testimonials">Clients</a></li>
+                        <li><a class="nav-link" href="#features">Insight</a></li>
                         <li><a class="nav-link" href="#purchase">Purchase</a></li>
 						<li><a class="nav-link" href="#support">Support</a></li>
                     </ul>
