@@ -75,7 +75,7 @@
                     <ul class="navbar-nav">
                         <li><a class="nav-link active" href="#home">Home</a></li>
                         <li><a class="nav-link" href="#features">Insight</a></li>
-                        <li><a class="nav-link" href="#purchase">Purchase</a></li>
+                        <li><a class="nav-link" href="#purchase">Paket</a></li>
 						<li><a class="nav-link" href="#support">Support</a></li>
                     </ul>
                 </div>
