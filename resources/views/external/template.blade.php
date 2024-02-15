@@ -56,8 +56,8 @@
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 					<div class="right-btn">
-						<a href="#" class="btn-radius btn-brd">Get Support</a>
-					</div>
+						<a href="#" class="btn-radius btn-brd">Get kesenian</a>
+	Kesenian				</div>
 				</div>
 			</div>
 		</div>
@@ -74,9 +74,11 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarApp">
                     <ul class="navbar-nav">
                         <li><a class="nav-link active" href="#home">Home</a></li>
-                        <li><a class="nav-link" href="#features">Insight</a></li>
-                        <li><a class="nav-link" href="#purchase">Paket</a></li>
-						<li><a class="nav-link" href="#support">Support</a></li>
+                        <li><a class="nav-link" href="#insight">Insight</a></li>
+                        <li><a class="nav-link" href="#edukasi">Edukasi</a></li>
+						<li><a class="nav-link" href="#kesenian">Kesenian</a></li>
+                        <li><a class="nav-link" href="#kesenian">Produk</a></li>
+                        <li><a class="nav-link" href="#kesenian">Paket Wisata</a></li>
                     </ul>
                 </div>
             </div>
@@ -88,8 +90,10 @@
             <div class="row">
                 <div class="col-md-6 col-sm-12">
                     <div class="big-tagline">
-                        <h2>Familiarize Your Creative Apps</h2>
-                        <p class="lead">With Appfast responsive landing page template, you can showcase your next creative & amazing apps!</p>
+                        <h2>Desa Wisata Samirono</h2>
+                        <p class="lead">
+                        Adalah Desa Sentra Peternakan Sapi Perah Rakyat di Kecamatan Getasan Kabupaten Semarang Provinsi Jawa Tengah. Dengan potensi keindahan alam pedesaan dan pegunungan (lereng Merbabu), keberagaman sosial budaya, keberagaman agama (terdapat tiga agama: Islam, Kristen, dan Budha yang dianut warga masyarakat), kearifan lokal, adat istiadat, kuliner yang khas, UMKM, kreasi kerajinan tangan dari barang bekas, penerapan teknologi tepat guna biodigester yang menghasilkan energi baru terbarukan (biogas) serta keunikan desa menjadi daya tarik wisatawan untuk berkunjung dan berkegiatan dengan paket Live In (menginap) merasakan kehidupan pedesaan penuh kesederhanaan
+                        </p>
                         <a data-scroll href="#order" class="btn btn-light btn-radius btn-brd"><i class="fa fa-play" aria-hidden="true"></i> GooglePlay </a>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <a data-scroll href="#screenshots" class="btn btn-light btn-radius btn-brd"><i class="fa fa-apple" aria-hidden="true"></i> App Store</a>
@@ -105,18 +109,18 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div id="features" class="section wb">
+    <div id="insight" class="section wb">
         <div class="container">
             <div class="section-title text-center">
-                <h3>The App Features</h3>
-                <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum<br>auctor nisi elit consequat ipsum, nec sagittis sem!</p>
+                <h3>Insight</h3>
+                <p class="lead">Artikel tentang Desa Wisata</p>
             </div><!-- end title -->
 
             <div id="default" class="row clearfix zenith_slider">
                   
 				<!--The First row-->  
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 left-row">
-					<ul class="features-left">
+					<ul class="insight-left">
 						<li class="highlight lhgh" data-index="0">
 							<i class="flaticon-wordpress-logo effect-1" ></i>
 							<div class="fl-inner">
@@ -184,7 +188,7 @@
 
 				<!--The Second row-->
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 right-row">
-					<ul class="features-right">
+					<ul class="insight-right">
 						<li class="highlight rhgh" data-index="4">
 							<i class="flaticon-pantone effect-1"></i>							 
 							<div class="fr-inner">
@@ -223,25 +227,25 @@
     <div class="how-its-work clearfix">
         <div class="hc colon1">
             <h2>1</h2>
-            <h3>Go App Store</h3>
+            <h3>Kesenian Reog</h3>
             <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
         </div><!-- end col -->
 
         <div class="hc colon2">
             <h2>2</h2>
-            <h3>Create an Account</h3>
+            <h3>Kesenian Tari</h3>
             <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
         </div><!-- end col -->
 
         <div class="hc colon3">
             <h2>3</h2>
-            <h3>Download the App</h3>
+            <h3>Kesenian </h3>
             <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
         </div><!-- end col -->  
 
         <div class="hc colon4">
             <h2>4</h2>
-            <h3>Enjoy & Rate us!</h3>
+            <h3>Kesenian </h3>
             <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
         </div><!-- end col -->  
     </div><!-- end how-its-work -->
@@ -390,7 +394,7 @@
                             <li class="list-inline-item"><i class="flaticon-android"></i> Available on Android</li>
                             <li class="list-inline-item"><i class="flaticon-amazon-logo"></i> Available on Amazon</li>
                         </ul><!-- end list -->
-                        <a href="#features" data-scroll class="btn btn-light btn-radius btn-brd">Learn More</a>
+                        <a href="#insight" data-scroll class="btn btn-light btn-radius btn-brd">Learn More</a>
                     </div>
                 </div><!-- end col -->
                 <div class="col-md-6 iphones hidden-sm">
@@ -519,13 +523,13 @@
                                             <h3>$85/month</h3>
                                         </div>
                                         <div class="pricing-table-space"></div>
-                                        <div class="pricing-table-features">
+                                        <div class="pricing-table-insight">
                                             <p><i class="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses</p>
                                             <p><i class="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
                                             <p><i class="fa fa-database"></i> <strong>140</strong> Databases</p>
                                             <p><i class="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> Support</p>
-                                        </div>
+                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p>
+ Kesenian                                       </div>
                                         <div class="pricing-table-sign-up">
                                             <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Order Now</a>
                                         </div>
@@ -541,13 +545,13 @@
                                         <div class="pricing-table-text">
                                             <p>This is a perfect choice for small businesses and startups.</p>
                                         </div>
-                                        <div class="pricing-table-features">
+                                        <div class="pricing-table-insight">
                                             <p><i class="fa fa-envelope-o"></i> <strong>150</strong> Email Addresses</p>
                                             <p><i class="fa fa-rocket"></i> <strong>65GB</strong> of Storage</p>
                                             <p><i class="fa fa-database"></i> <strong>60</strong> Databases</p>
                                             <p><i class="fa fa-link"></i> <strong>30</strong> Domains</p>
-                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> Support</p>
-                                        </div>
+                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p>
+ Kesenian                                       </div>
                                         <div class="pricing-table-sign-up">
                                             <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Learn More</a>
                                         </div>
@@ -561,13 +565,13 @@
                                             <h3>$85/one-time</h3>
                                         </div>
                                         <div class="pricing-table-space"></div>
-                                        <div class="pricing-table-features">
+                                        <div class="pricing-table-insight">
                                             <p><i class="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses</p>
                                             <p><i class="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
                                             <p><i class="fa fa-database"></i> <strong>140</strong> Databases</p>
                                             <p><i class="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> Support</p>
-                                        </div>
+                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p>
+ Kesenian                                       </div>
                                         <div class="pricing-table-sign-up">
                                             <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Order Now</a>
                                         </div>
@@ -593,7 +597,7 @@
                     <div class="testi-carousel owl-carousel owl-theme">
                         <div class="testimonial clearfix">
                             <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
+                                <h3><i class="fa fa-quote-left"></i> Wonderful kesenian!</h3>Kesenian
                                 <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
                             </div>
                             <div class="testi-meta">
@@ -631,7 +635,7 @@
                         <!-- end testimonial -->
                         <div class="testimonial clearfix">
                             <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
+                                <h3><i class="fa fa-quote-left"></i> Wonderful kesenian!</h3>Kesenian
                                 <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
                             </div>
                             <div class="testi-meta">
@@ -672,11 +676,11 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div id="purchase" class="parallax section db" style="background-image:url('assets/template/uploads/pr_bg.jpg');">
+    <div id="edukasi" class="parallax section db" style="background-image:url('assets/template/uploads/pr_bg.jpg');">
         <div class="container">
             <div class="section-title text-center">
                 <h2>Started from $90.00</h2>
-                <h3>Purchase Now!</h3>
+                <h3>edukasi Now!</h3>
                 <p class="lead">We thanks for all our awesome testimonials! There are hundreds of our happy customers! <br>Let's see what others say about Appfast website template!</p>
             </div><!-- end title -->
 
@@ -703,7 +707,7 @@
     </div><!-- end section -->
 
 
-    <div id="support" class="section" style="background-image:url('assets/template/uploads/form_bg.jpg');">
+    <div id="kesenian" clasKesenians="section" style="background-image:url('assets/template/uploads/form_bg.jpg');">
         <div class="container">
             <div class="section-title text-center">
                 <h3>Get in Touch</h3>
