@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
  
      <!-- Site Metas -->
-    <title>Appfast - Responsive OnePage HTML5 Template</title>  
+    <title>Desa wisata Samirono</title>  
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -42,26 +42,6 @@
         <img class="preloader" src="{{ asset('assets/template/images/loaders/loader-app.gif') }}" alt="">
     </div> end loader -->
     <!-- END LOADER -->
-	<div class="top-bar">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-					<div class="left-soi">
-						<ul>
-							<li class="social-links"><a href="#"><i class="fa fa-apple"></i></a></li>
-							<li class="social-links"><a href="#"><i class="fa fa-android"></i></a></li>
-							<li class="social-links"><a href="#"><i class="fa fa-windows"></i></a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-					<div class="right-btn">
-						<a href="#" class="btn-radius btn-brd">Get kesenian</a>
-	Kesenian				</div>
-				</div>
-			</div>
-		</div>
-	</div>
     <header class="header header_style_01">
         <nav class="navbar header-nav navbar-expand-lg">
             <div class="container">
@@ -77,15 +57,15 @@
                         <li><a class="nav-link" href="#insight">Insight</a></li>
                         <li><a class="nav-link" href="#edukasi">Edukasi</a></li>
 						<li><a class="nav-link" href="#kesenian">Kesenian</a></li>
-                        <li><a class="nav-link" href="#kesenian">Produk</a></li>
-                        <li><a class="nav-link" href="#kesenian">Paket Wisata</a></li>
+                        <li><a class="nav-link" href="#produk">Produk</a></li>
+                        <li><a class="nav-link" href="#paket">Paket Wisata</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
 
-    <div id="home" class="parallax first-section" style="background-image:url('assets/template/uploads/bg-img.jpg');">
+    <div id="home" class="parallax first-section" style="background-image:url('assets/template/uploads/Gambar.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-12">
@@ -94,16 +74,7 @@
                         <p class="lead">
                         Adalah Desa Sentra Peternakan Sapi Perah Rakyat di Kecamatan Getasan Kabupaten Semarang Provinsi Jawa Tengah. Dengan potensi keindahan alam pedesaan dan pegunungan (lereng Merbabu), keberagaman sosial budaya, keberagaman agama (terdapat tiga agama: Islam, Kristen, dan Budha yang dianut warga masyarakat), kearifan lokal, adat istiadat, kuliner yang khas, UMKM, kreasi kerajinan tangan dari barang bekas, penerapan teknologi tepat guna biodigester yang menghasilkan energi baru terbarukan (biogas) serta keunikan desa menjadi daya tarik wisatawan untuk berkunjung dan berkegiatan dengan paket Live In (menginap) merasakan kehidupan pedesaan penuh kesederhanaan
                         </p>
-                        <a data-scroll href="#order" class="btn btn-light btn-radius btn-brd"><i class="fa fa-play" aria-hidden="true"></i> GooglePlay </a>
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a data-scroll href="#screenshots" class="btn btn-light btn-radius btn-brd"><i class="fa fa-apple" aria-hidden="true"></i> App Store</a>
                     </div>
-                </div>
-                <div class="app_iphone_01 wow slideInUp hidden-xs hidden-sm" data-wow-duration="1s" data-wow-delay="0.2s">
-                    <img src="{{ asset('assets/template/uploads/app_iphone_01.png') }}" alt="" class="img-fluid">
-                </div>
-                <div class="app_iphone_02 wow slideInUp hidden-xs hidden-sm" data-wow-duration="1s" data-wow-delay="0.5s">
-                    <img src="{{ asset('assets/template/uploads/app_iphone_02.png') }}" alt="" class="img-fluid">
                 </div>
             </div><!-- end row -->
         </div><!-- end container -->
@@ -136,22 +107,6 @@
 								<p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet.</p>
 							</div>
 						</li><!-- .highlight .left-row -->
-
-						<li class="highlight lhgh" data-index="2">
-							<i class="flaticon-price-tag effect-1"></i>							
-							<div class="fl-inner">
-								<h4>eCommerce Ready</h4>
-								<p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet.</p>
-							</div>
-						</li><!-- .highlight .left-row -->
-						
-						<li class="highlight lhgh" data-index="3">
-							<i class="flaticon-new-file effect-1"></i>						
-							<div class="fl-inner">
-								<h4>Easy to Customize</h4>
-								<p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet.</p>
-							</div>
-						</li><!-- .highlight .left-row -->
 					</ul>
 				</div><!-- .row .left-row -->
 			  
@@ -165,23 +120,11 @@
 						<div class="hgh-linner hgi" data-index="1">
 							<img width="234" height="398" src="{{ asset('assets/template/uploads/carousel_02.jpg') }}" class="attachment-highlight wp-post-image" alt="screensdst" />    
 						</div>
-						<div class="hgh-linner hgi" data-index="2">
-							<img width="234" height="398" src="{{ asset('assets/template/uploads/carousel_03.jpg') }}" class="attachment-highlight wp-post-image" alt="screen_09" />    
-						</div>
-						<div class="hgh-rinner hgi" data-index="3">
-							<img width="234" height="398" src="{{ asset('assets/template/uploads/carousel_04.jpg') }}" class="attachment-highlight wp-post-image" alt="screen_07" />    
-						</div>
 						<div class="hgh-rinner hgi" data-index="4">
 							<img width="234" height="398" src="{{ asset('assets/template/uploads/carousel_01.jpg') }}" class="attachment-highlight wp-post-image" alt="screen_08" />    
 						</div>
 						<div class="hgh-rinner hgi" data-index="5">
 							<img width="234" height="398" src="{{ asset('assets/template/uploads/carousel_01.jpg') }}" class="attachment-highlight wp-post-image" alt="screen_06" />    
-						</div>
-						<div class="hgh-rinner hgi" data-index="6">
-							<img width="234" height="398" src="{{ asset('assets/template/uploads/carousel_02.jpg') }}" class="attachment-highlight wp-post-image" alt="screen_06" />    
-						</div>
-						<div class="hgh-rinner hgi" data-index="7">
-							<img width="234" height="398" src="{{ asset('assets/template/uploads/carousel_03.jpg') }}" class="attachment-highlight wp-post-image" alt="screen_06" />    
 						</div>
 					</div>
 				</div>
@@ -196,27 +139,6 @@
 								<p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet.</p>
 							</div>
 						</li><!-- .highlight .left-row -->
-						<li class="highlight rhgh" data-index="5">
-							<i class="flaticon-cloud-computing effect-1"></i>
-							<div class="fr-inner">
-								<h4>Lifetime Update</h4>
-								<p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet.</p>
-							</div>
-						</li><!-- .highlight .left-row -->
-						<li class="highlight rhgh" data-index="6">
-							<i class="flaticon-line-graph effect-1"></i>
-							<div class="fr-inner">
-								<h4>SEO Friendly</h4>
-								<p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
-							</div>
-						</li><!-- .highlight .left-row -->
-						<li class="highlight rhgh" data-index="7">
-							<i class="flaticon-coding effect-1"></i>
-							<div class="fr-inner">
-								<h4>Simple Clean Code</h4>
-								<p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
-							</div>
-						</li><!-- .highlight .left-row -->
 					</ul>
 				</div><!-- .row .left-row -->
 			  
@@ -224,36 +146,38 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div class="how-its-work clearfix">
-        <div class="hc colon1">
-            <h2>1</h2>
-            <h3>Kesenian Reog</h3>
-            <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
-        </div><!-- end col -->
+    <div id="kesenian" class="section wb">
+        <div class="how-its-work clearfix">
+            <div class="hc colon1">
+                <h2>1</h2>
+                <h3>Kesenian Reog</h3>
+                <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
+            </div><!-- end col -->
 
-        <div class="hc colon2">
-            <h2>2</h2>
-            <h3>Kesenian Tari</h3>
-            <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
-        </div><!-- end col -->
+            <div class="hc colon2">
+                <h2>2</h2>
+                <h3>Kesenian Tari</h3>
+                <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
+            </div><!-- end col -->
 
-        <div class="hc colon3">
-            <h2>3</h2>
-            <h3>Kesenian </h3>
-            <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
-        </div><!-- end col -->  
+            <div class="hc colon3">
+                <h2>3</h2>
+                <h3>Kesenian </h3>
+                <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
+         </div><!-- end col -->  
 
-        <div class="hc colon4">
-            <h2>4</h2>
-            <h3>Kesenian </h3>
-            <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
-        </div><!-- end col -->  
-    </div><!-- end how-its-work -->
+            <div class="hc colon4">
+                <h2>4</h2>
+                <h3>Kesenian </h3>
+               <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
+          </div><!-- end col -->  
+        </div><!-- end how-its-work -->
+    </div id="kesenian" class="section wb">
 
-    <div id="screenshots" class="section wb">
+    <div id="edukasi" class="section wb">
         <div class="container">
             <div class="section-title text-center">
-                <h3>Screenshots of the App</h3>
+                <h3>Edukasi</h3>
                 <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum<br>auctor nisi elit consequat ipsum, nec sagittis sem!</p>
             </div><!-- end title -->
 
@@ -528,8 +452,7 @@
                                             <p><i class="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
                                             <p><i class="fa fa-database"></i> <strong>140</strong> Databases</p>
                                             <p><i class="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p>
- Kesenian                                       </div>
+                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p>Kesenian                                       </div>
                                         <div class="pricing-table-sign-up">
                                             <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Order Now</a>
                                         </div>
@@ -550,8 +473,7 @@
                                             <p><i class="fa fa-rocket"></i> <strong>65GB</strong> of Storage</p>
                                             <p><i class="fa fa-database"></i> <strong>60</strong> Databases</p>
                                             <p><i class="fa fa-link"></i> <strong>30</strong> Domains</p>
-                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p>
- Kesenian                                       </div>
+                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p> Kesenian                                       </div>
                                         <div class="pricing-table-sign-up">
                                             <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Learn More</a>
                                         </div>
@@ -570,8 +492,7 @@
                                             <p><i class="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
                                             <p><i class="fa fa-database"></i> <strong>140</strong> Databases</p>
                                             <p><i class="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p>
- Kesenian                                       </div>
+                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p>Kesenian                                       </div>
                                         <div class="pricing-table-sign-up">
                                             <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Order Now</a>
                                         </div>
