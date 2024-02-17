@@ -15,7 +15,7 @@
     <meta name="author" content="">
 
     <!-- Site Icons -->
-    <link rel="shortcut icon" href="{{ asset('assets/template/images/favicon.ico') }}" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{ asset('assets/template/images/logos/Logo Samirono Grafis (No BG).png') }}" type="image/x-icon" />
     <link rel="apple-touch-icon" href="{{ asset('assets/template/images/apple-touch-icon.png') }}">
 
     <!-- Bootstrap CSS -->
@@ -57,7 +57,7 @@
                         <li><a class="nav-link" href="#insight">Insight</a></li>
                         <li><a class="nav-link" href="#edukasi">Edukasi</a></li>
 						<li><a class="nav-link" href="#kesenian">Kesenian</a></li>
-                        <li><a class="nav-link" href="#produk">Produk</a></li>
+                        <li><a class="nav-link" href="#produk">Produk Olahan</a></li>
                         <li><a class="nav-link" href="#paket">Paket Wisata</a></li>
                     </ul>
                 </div>
@@ -98,15 +98,7 @@
 								<h4>WordPress Installation</h4>
 								<p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet.</p>
 							</div>
-						</li><!-- .highlight .left-row -->
-
-						<li class="highlight lhgh" data-index="1">
-							<i class="flaticon-windows effect-1"></i>
-							<div class="fl-inner">
-								<h4>Browser Compatible</h4>
-								<p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet.</p>
-							</div>
-						</li><!-- .highlight .left-row -->
+						</li><!-- .highlight .left-row -->					
 					</ul>
 				</div><!-- .row .left-row -->
 			  
@@ -115,16 +107,10 @@
 					<div class="phone-holder">
 					   <div id="fon"></div>
 					   <div class="hgh-linner hgi" data-index="0">
-							<img width="190" height="320" src="{{ asset('assets/template/uploads/carousel_01.jpg') }}" class="attachment-highlight wp-post-image" alt="screen" />    
-						</div>
-						<div class="hgh-linner hgi" data-index="1">
-							<img width="234" height="398" src="{{ asset('assets/template/uploads/carousel_02.jpg') }}" class="attachment-highlight wp-post-image" alt="screensdst" />    
+							<img width="190" height="320" src="{{ asset('assets/template/uploads/Artikel 1.png') }}" class="attachment-highlight wp-post-image" alt="screen" />    
 						</div>
 						<div class="hgh-rinner hgi" data-index="4">
-							<img width="234" height="398" src="{{ asset('assets/template/uploads/carousel_01.jpg') }}" class="attachment-highlight wp-post-image" alt="screen_08" />    
-						</div>
-						<div class="hgh-rinner hgi" data-index="5">
-							<img width="234" height="398" src="{{ asset('assets/template/uploads/carousel_01.jpg') }}" class="attachment-highlight wp-post-image" alt="screen_06" />    
+							<img width="234" height="398" src="{{ asset('assets/template/uploads/Artikel 2.png') }}" class="attachment-highlight wp-post-image" alt="screen_08" />    
 						</div>
 					</div>
 				</div>
@@ -145,34 +131,6 @@
 			</div><!--Highlights close-->
         </div><!-- end container -->
     </div><!-- end section -->
-
-    <div id="kesenian" class="section wb">
-        <div class="how-its-work clearfix">
-            <div class="hc colon1">
-                <h2>1</h2>
-                <h3>Kesenian Reog</h3>
-                <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
-            </div><!-- end col -->
-
-            <div class="hc colon2">
-                <h2>2</h2>
-                <h3>Kesenian Tari</h3>
-                <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
-            </div><!-- end col -->
-
-            <div class="hc colon3">
-                <h2>3</h2>
-                <h3>Kesenian </h3>
-                <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
-         </div><!-- end col -->  
-
-            <div class="hc colon4">
-                <h2>4</h2>
-                <h3>Kesenian </h3>
-               <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit aliquet. Aenean sollicitudin, lorem quis bibendum..</p>
-          </div><!-- end col -->  
-        </div><!-- end how-its-work -->
-    </div id="kesenian" class="section wb">
 
     <div id="edukasi" class="section wb">
         <div class="container">
@@ -330,11 +288,11 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div id="team" class="section wb">
+    <div id="produk" class="section wb">
         <div class="container">
             <div class="section-title text-center">
-                <h3>The Team</h3>
-                <p class="lead">Ini team ku chunks as necessary, true generator<br> on the Internet. It uses a dictionary of over..</p>
+                <h3>Produk Olahan</h3>
+                <p class="lead">Produk olahan yang ditawarkan oleh Desa Wisata Samirono<br>Produk UMKM dengan menggunakan bahan 100% tanpa pengawet</p>
             </div><!-- end title -->
 
             <div class="row dev-list text-center">
