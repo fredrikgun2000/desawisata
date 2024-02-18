@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
  
      <!-- Site Metas -->
-    <title>Desa wisata Samirono</title>  
+    <title>Desa Wisata Samirono</title>  
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -45,7 +45,7 @@
     <header class="header header_style_01">
         <nav class="navbar header-nav navbar-expand-lg">
             <div class="container">
-				<a class="navbar-brand" href="index.html"><img src="{{ asset('assets/template/images/logos/logo-app.png') }}" alt="image"></a>
+				<a class="navbar-brand" href="index.html"><img src="{{ asset('assets/template/images/logo samirono teks.png') }}" alt="image"></a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarApp" aria-controls="navbarApp" aria-expanded="false" aria-label="Toggle navigation">
 					<span></span>
 					<span></span>
@@ -72,7 +72,7 @@
                     <div class="big-tagline">
                         <h2>Desa Wisata Samirono</h2>
                         <p class="lead">
-                        Adalah Desa Sentra Peternakan Sapi Perah Rakyat di Kecamatan Getasan Kabupaten Semarang Provinsi Jawa Tengah. Dengan potensi keindahan alam pedesaan dan pegunungan (lereng Merbabu), keberagaman sosial budaya, keberagaman agama (terdapat tiga agama: Islam, Kristen, dan Budha yang dianut warga masyarakat), kearifan lokal, adat istiadat, kuliner yang khas, UMKM, kreasi kerajinan tangan dari barang bekas, penerapan teknologi tepat guna biodigester yang menghasilkan energi baru terbarukan (biogas) serta keunikan desa menjadi daya tarik wisatawan untuk berkunjung dan berkegiatan dengan paket Live In (menginap) merasakan kehidupan pedesaan penuh kesederhanaan
+                        Adalah Desa Sentra Peternakan Sapi Perah Rakyat di Kecamatan Getasan Kabupaten Semarang Provinsi Jawa Tengah.
                         </p>
                     </div>
                 </div>
@@ -95,8 +95,8 @@
 						<li class="highlight lhgh" data-index="0">
 							<i class="flaticon-wordpress-logo effect-1" ></i>
 							<div class="fl-inner">
-								<h4>WordPress Installation</h4>
-								<p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet.</p>
+								<h4>Kenapa Desa?</h4>
+								<p>Apa yang kita dapatkan dari desa?</p>
 							</div>
 						</li><!-- .highlight .left-row -->					
 					</ul>
@@ -121,8 +121,8 @@
 						<li class="highlight rhgh" data-index="4">
 							<i class="flaticon-pantone effect-1"></i>							 
 							<div class="fr-inner">
-								<h4>Limitless Colors</h4>
-								<p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet.</p>
+								<h4>Desa Wisata Samirono?</h4>
+								<p>Apa itu desa wisata?</p>
 							</div>
 						</li><!-- .highlight .left-row -->
 					</ul>
@@ -136,15 +136,15 @@
         <div class="container">
             <div class="section-title text-center">
                 <h3>Edukasi</h3>
-                <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum<br>auctor nisi elit consequat ipsum, nec sagittis sem!</p>
+                <p class="lead">Edukasi dari Desa Wisata Samirono ini merupakan ciri khas/nilai jual yang ada di desa ini.</p>
             </div><!-- end title -->
 
             <div class="owl-screenshots owl-carousel owl-theme">
                 <div class="owl-screen">
                     <div class="service-widget">
                         <div class="post-media entry wow fadeIn">
-                            <a href="uploads/screenshot_01.png') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                            <img src="{{ asset('assets/template/uploads/screenshot_01.png') }}" alt="" class="img-fluid img-rounded">
+                            <a href="uploads/edukasi1.jpg') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                            <img src="{{ asset('assets/template/uploads/edukasi1.jpg') }}" alt="" class="img-fluid img-rounded">
                             <div class="magnifier"></div>
                         </div>
                     </div><!-- end service -->
@@ -153,8 +153,8 @@
                 <div class="owl-screen">
                     <div class="service-widget">
                         <div class="post-media entry wow fadeIn">
-                            <a href="uploads/screenshot_02.png') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                            <img src="{{ asset('assets/template/uploads/screenshot_02.png') }}" alt="" class="img-fluid img-rounded">
+                            <a href="uploads/edukasi2.jpg') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                            <img src="{{ asset('assets/template/uploads/edukasi2.jpg') }}" alt="" class="img-fluid img-rounded">
                             <div class="magnifier"></div>
                         </div>
                     </div><!-- end service -->
@@ -163,8 +163,8 @@
                 <div class="owl-screen">
                     <div class="service-widget">
                         <div class="post-media entry wow fadeIn">
-                            <a href="uploads/screenshot_03.png') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                            <img src="{{ asset('assets/template/uploads/screenshot_03.png') }}" alt="" class="img-fluid img-rounded">
+                            <a href="uploads/edukasi3.jpg') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                            <img src="{{ asset('assets/template/uploads/edukasi3.jpg') }}" alt="" class="img-fluid img-rounded">
                             <div class="magnifier"></div>
                         </div>
                     </div><!-- end service -->
@@ -173,8 +173,8 @@
                 <div class="owl-screen">
                     <div class="service-widget">
                         <div class="post-media entry wow fadeIn">
-                            <a href="uploads/screenshot_04.png') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                            <img src="{{ asset('assets/template/uploads/screenshot_04.png') }}" alt="" class="img-fluid img-rounded">
+                            <a href="uploads/edukasi4.jpg') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                            <img src="{{ asset('assets/template/uploads/edukasi4.jpg') }}" alt="" class="img-fluid img-rounded">
                             <div class="magnifier"></div>
                         </div>
                     </div><!-- end service -->
@@ -183,8 +183,8 @@
                 <div class="owl-screen">
                     <div class="service-widget">
                         <div class="post-media entry wow fadeIn">
-                            <a href="uploads/screenshot_05.png') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                            <img src="{{ asset('assets/template/uploads/screenshot_05.png') }}" alt="" class="img-fluid img-rounded">
+                            <a href="uploads/edukasi5.jpg') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                            <img src="{{ asset('assets/template/uploads/edukasi5.jpg') }}" alt="" class="img-fluid img-rounded">
                             <div class="magnifier"></div>
                         </div>
                     </div><!-- end service -->
@@ -193,8 +193,8 @@
                 <div class="owl-screen">
                     <div class="service-widget">
                         <div class="post-media entry wow fadeIn">
-                            <a href="uploads/screenshot_06.png') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                            <img src="{{ asset('assets/template/uploads/screenshot_06.png') }}" alt="" class="img-fluid img-rounded">
+                            <a href="uploads/edukasi6.jpg') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                            <img src="{{ asset('assets/template/uploads/edukasi6.jpg') }}" alt="" class="img-fluid img-rounded">
                             <div class="magnifier"></div>
                         </div>
                     </div><!-- end service -->
@@ -203,8 +203,8 @@
                 <div class="owl-screen">
                     <div class="service-widget">
                         <div class="post-media entry wow fadeIn">
-                            <a href="uploads/screenshot_01.png') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                            <img src="{{ asset('assets/template/uploads/screenshot_01.png') }}" alt="" class="img-fluid img-rounded">
+                            <a href="uploads/edukasi1.jpg') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                            <img src="{{ asset('assets/template/uploads/edukasi1.jpg') }}" alt="" class="img-fluid img-rounded">
                             <div class="magnifier"></div>
                         </div>
                     </div><!-- end service -->
@@ -213,8 +213,8 @@
                 <div class="owl-screen">
                     <div class="service-widget">
                         <div class="post-media entry wow fadeIn">
-                            <a href="uploads/screenshot_02.png') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                            <img src="{{ asset('assets/template/uploads/screenshot_02.png') }}" alt="" class="img-fluid img-rounded">
+                            <a href="uploads/edukasi2.jpg') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                            <img src="{{ asset('assets/template/uploads/edukasi2.jpg') }}" alt="" class="img-fluid img-rounded">
                             <div class="magnifier"></div>
                         </div>
                     </div><!-- end service -->
@@ -223,8 +223,8 @@
                 <div class="owl-screen">
                     <div class="service-widget">
                         <div class="post-media entry wow fadeIn">
-                            <a href="uploads/screenshot_03.png') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                            <img src="{{ asset('assets/template/uploads/screenshot_03.png') }}" alt="" class="img-fluid img-rounded">
+                            <a href="uploads/edukasi3.jpg') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                            <img src="{{ asset('assets/template/uploads/edukasi3.jpg') }}" alt="" class="img-fluid img-rounded">
                             <div class="magnifier"></div>
                         </div>
                     </div><!-- end service -->
@@ -233,8 +233,8 @@
                 <div class="owl-screen">
                     <div class="service-widget">
                         <div class="post-media entry wow fadeIn">
-                            <a href="uploads/screenshot_04.png') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                            <img src="{{ asset('assets/template/uploads/screenshot_04.png') }}" alt="" class="img-fluid img-rounded">
+                            <a href="uploads/edukasi4.jpg') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                            <img src="{{ asset('assets/template/uploads/edukasi4.jpg') }}" alt="" class="img-fluid img-rounded">
                             <div class="magnifier"></div>
                         </div>
                     </div><!-- end service -->
@@ -243,8 +243,8 @@
                 <div class="owl-screen">
                     <div class="service-widget">
                         <div class="post-media entry wow fadeIn">
-                            <a href="uploads/screenshot_05.png') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                            <img src="{{ asset('assets/template/uploads/screenshot_05.png') }}" alt="" class="img-fluid img-rounded">
+                            <a href="uploads/edukasi5.jpg') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                            <img src="{{ asset('assets/template/uploads/edukasi5.jpg') }}" alt="" class="img-fluid img-rounded">
                             <div class="magnifier"></div>
                         </div>
                     </div><!-- end service -->
@@ -253,8 +253,8 @@
                 <div class="owl-screen">
                     <div class="service-widget">
                         <div class="post-media entry wow fadeIn">
-                            <a href="uploads/screenshot_06.png') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                            <img src="{{ asset('assets/template/uploads/screenshot_06.png') }}" alt="" class="img-fluid img-rounded">
+                            <a href="uploads/edukasi6.jpg') }}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                            <img src="{{ asset('assets/template/uploads/edukasi6.jpg') }}" alt="" class="img-fluid img-rounded">
                             <div class="magnifier"></div>
                         </div>
                     </div><!-- end service -->
@@ -264,7 +264,7 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div class="parallax section noover" style="background-image:url('assets/template/uploads/ben_img.jpg');">
+    <div class="parallax section noover" style="background-image:url('assets/template/uploads/bg_img.jpg');">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-7 col-sm-12">
@@ -298,10 +298,10 @@
             <div class="row dev-list text-center">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
                     <div class="widget clearfix">
-                        <img src="{{ asset('assets/template/uploads/team_01.jpg') }}" alt="" class="img-fluid rounded-circle">
+                        <img src="{{ asset('assets/template/uploads/1.jpg') }}" alt="" class="img-fluid rounded-circle">
                         <div class="widget-title">
-                            <h3>Soren Bo Bostian</h3>
-                            <small>Senior Art Director</small>
+                            <h3>Snack</h3>
+                            <small>Handmade and Crunchy</small>
                         </div>
                         <!-- end title -->
                         <p>Hello guys, I am Soren from Sirbistana. I am senior art director and founder of Violetta.</p>
@@ -317,10 +317,10 @@
 
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s">
                     <div class="widget clearfix">
-                        <img src="{{ asset('assets/template/uploads/team_02.jpg') }}" alt="" class="img-fluid rounded-circle">
+                        <img src="{{ asset('assets/template/uploads/2.jpg') }}" alt="" class="img-fluid rounded-circle">
                         <div class="widget-title">
-                            <h3>Bryan Saftler</h3>
-                            <small>Creative Technologist Microsoft</small>
+                            <h3>Cookies</h3>
+                            <small>Handmade and Sweet</small>
                         </div>
                         <!-- end title -->
                         <p>I am Soren from Sirbistana. I am senior art director and founder of Violetta.</p>
@@ -336,10 +336,10 @@
 
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.6s">
                     <div class="widget clearfix">
-                        <img src="{{ asset('assets/template/uploads/team_03.jpg') }}" alt="" class="img-fluid rounded-circle">
+                        <img src="{{ asset('assets/template/uploads/3.jpg') }}" alt="" class="img-fluid rounded-circle">
                         <div class="widget-title">
-                            <h3>Matthew Bayliss</h3>
-                            <small>Front End Developer</small>
+                            <h3>Minuman</h3>
+                            <small>Handmade and Fresh</small>
                         </div>
                         <!-- end title -->
                         <p>Hello guys, I am Soren from Sirbistana. I am senior art director and founder of Violetta.</p>
@@ -355,26 +355,26 @@
             </div><!-- end row -->
         </div><!-- end container -->
     </div><!-- end section -->
-
-    <div class="parallax section" style="background-image:url('assets/template/uploads/ben_img_2.jpg');">
+    
+    <div class="parallax section" style="background-image:url('assets/template/uploads/bg_img_2.jpg');">
         <div class="container">
             <div class="row text-left stat-wrap">
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <span data-scroll class="global-radius icon_wrap effect-1 alignleft"><i class="flaticon-apple"></i></span>
-                    <p class="stat_count_download">12500</p>
-                    <h3>App Store</h3>
+                    <span data-scroll class="global-radius icon_wrap effect-1 alignleft"><i class="fa fa-users" aria-hidden="true"></i></span>
+                    <p class="stat_count_download">15000</p>
+                    <h3>Orang berkunjung</h3>
                 </div><!-- end col -->
 
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <span data-scroll class="global-radius icon_wrap effect-1 alignleft"><i class="flaticon-amazon-logo"></i></span>
-                    <p class="stat_count_download">31000</p>
-                    <h3>Amazon</h3>
+                    <span data-scroll class="global-radius icon_wrap effect-1 alignleft"><i class="fa fa-usd" aria-hidden="true"></i></span>
+                    <p class="stat_count_download">50000000</p>
+                    <h3>Pendapatan</h3>
                 </div><!-- end col -->
 
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <span data-scroll class="global-radius icon_wrap effect-1 alignleft"><i class="flaticon-android"></i></span>
-                    <p class="stat_count_download">15788</p>
-                    <h3>Google Play</h3>
+                    <span data-scroll class="global-radius icon_wrap effect-1 alignleft"><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                    <p class="stat_count_download">2018</p>
+                    <h3>Memulai</h3>
                 </div><!-- end col -->
 
                 <div class="col-md-3 col-sm-6 col-xs-12">
@@ -386,11 +386,11 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div id="pricing" class="section lb">
+    <div id="paket" class="section lb">
         <div class="container">
             <div class="section-title text-center">
-                <h3>Ready to get started?</h3>
-                <p class="lead">Get the red carpet treatment <strong>just $39 per month!</strong> It is estimated that 3.5 million established by personal blogs.<br> From each other, we share paid WordPress themes WP Service...</p>
+                <h3>Siap Berkunjung?</h3>
+                <p class="lead">Desa Wisata Samirono memberikan paket wisata yang beragam dan tentunya<strong> ramah dikantong!</strong><br> <strong>Silahkan pilih sesukamu!</strong></p>
             </div><!-- end title -->
 
             <div class="row">
@@ -401,13 +401,13 @@
                                 <div class="col-md-4">
                                     <div class="pricing-table pricing-table-highlighted">
                                         <div class="pricing-table-header grd1">
-                                            <h2>Free Access</h2>
-                                            <h3>$85/month</h3>
+                                            <h2>Paket Pilih Sendiri</h2>
+                                            <h3>Dimulai dari <strong>Rp 10.000</strong></h3>
                                         </div>
                                         <div class="pricing-table-space"></div>
                                         <div class="pricing-table-insight">
-                                            <p><i class="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses</p>
-                                            <p><i class="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
+                                            <p><i class="fa fa-heartbeat" aria-hidden="true"></i> <strong>25</strong>Edukasi yang bisa dipilih sendiri</p>
+                                            <p><i class="fa fa-check-square-o" aria-hidden="true"></i> <strong>Ilmu</strong> pasti dapat dan berkesan</p>
                                             <p><i class="fa fa-database"></i> <strong>140</strong> Databases</p>
                                             <p><i class="fa fa-link"></i> <strong>60</strong> Domains</p>
                                             <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p>Kesenian                                       </div>
@@ -419,8 +419,8 @@
                                 <div class="col-md-4">
                                     <div class="pricing-table pricing-table-highlighted">
                                         <div class="pricing-table-header grd1">
-                                            <h2>1 Year Membership</h2>
-                                            <h3>$59/year</h3>
+                                            <h2>Paket Harian</h2>
+                                            <h3>Dimulai dari <strong>Rp 60.000</strong></h3>
                                         </div>
                                         <div class="pricing-table-space"></div>
                                         <div class="pricing-table-text">
@@ -441,8 +441,8 @@
                                 <div class="col-md-4">
                                     <div class="pricing-table pricing-table-highlighted">
                                         <div class="pricing-table-header grd1">
-                                            <h2>Lifetime Update</h2>
-                                            <h3>$85/one-time</h3>
+                                            <h2>Paket Live-in</h2>
+                                            <h3>Dimulai dari <strong>Rp 350.000</strong></h3>
                                         </div>
                                         <div class="pricing-table-space"></div>
                                         <div class="pricing-table-insight">
@@ -555,12 +555,10 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div id="edukasi" class="parallax section db" style="background-image:url('assets/template/uploads/pr_bg.jpg');">
+    <div id="edukasi" class="parallax section db" style="background-image:url('assets/template/uploads/PR.jpg');">
         <div class="container">
             <div class="section-title text-center">
-                <h2>Started from $90.00</h2>
-                <h3>edukasi Now!</h3>
-                <p class="lead">We thanks for all our awesome testimonials! There are hundreds of our happy customers! <br>Let's see what others say about Appfast website template!</p>
+                <h3>Datang aja dulu!</h3>
             </div><!-- end title -->
 
             <div class="row">
@@ -583,53 +581,7 @@
                 </div><!-- end col -->  
             </div><!-- end row -->
         </div><!-- end container -->
-    </div><!-- end section -->
-
-
-    <div id="kesenian" clasKesenians="section" style="background-image:url('assets/template/uploads/form_bg.jpg');">
-        <div class="container">
-            <div class="section-title text-center">
-                <h3>Get in Touch</h3>
-				<div class="info-box" data-toggle="tooltip" data-placement="right" title="Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.">
-					<i class="fa fa-question-circle" aria-hidden="true"></i>
-				</div>
-            </div><!-- end title -->
-
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="contact_form">
-                        <div id="message"></div>
-                        <form id="contactform" class="row" action="contact.php" name="contactform" method="post">
-                            <fieldset class="row">
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                    <input type="text" name="first_name" id="first_name" class="form-control" placeholder="First Name">
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                    <input type="text" name="last_name" id="last_name" class="form-control" placeholder="Last Name">
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                    <input type="email" name="email" id="email" class="form-control" placeholder="Your Email">
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                    <input type="text" name="phone" id="phone" class="form-control" placeholder="Your Phone">
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                    <textarea class="form-control" name="comments" id="comments" rows="6" placeholder="Give us more details.."></textarea>
-                                </div>
-                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 text-center">
-                                    <button type="submit" value="SEND" id="submit" class="btn btn-light btn-radius btn-brd grd1 btn-block">Get a Quote</button>
-                                </div>
-                            </fieldset>
-                        </form>
-                    </div>
-                </div><!-- end col -->
-            </div><!-- end row -->
-        </div><!-- end container -->
-    </div><!-- end section -->
-
-    <section class="section nopad cac text-center">
-        <a href="#"><h3>Interesting our awesome web design services? Just drop an email to us and get quote for free!</h3></a>
-    </section>
+    </div><!-- end section --> 
 
     <footer class="footer">
         <div class="container">
