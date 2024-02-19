@@ -97,23 +97,11 @@
 							<div class="fl-inner">
 								<h4>Kenapa Desa?</h4>
 								<p>Apa yang kita dapatkan dari desa?</p>
+                                <img src="{{ asset('assets/template/uploads/Artkel 1.png') }}" alt="">
 							</div>
 						</li><!-- .highlight .left-row -->					
 					</ul>
 				</div><!-- .row .left-row -->
-			  
-				<div class="highlights-phone col-lg-4 col-md-4 col-sm-12 col-xs-12 wht">
-				  
-					<div class="phone-holder">
-					   <div id="fon"></div>
-					   <div class="hgh-linner hgi" data-index="0">
-							<img width="190" height="320" src="{{ asset('assets/template/uploads/Artikel 1.png') }}" class="attachment-highlight wp-post-image" alt="screen" />    
-						</div>
-						<div class="hgh-rinner hgi" data-index="4">
-							<img width="234" height="398" src="{{ asset('assets/template/uploads/Artikel 2.png') }}" class="attachment-highlight wp-post-image" alt="screen_08" />    
-						</div>
-					</div>
-				</div>
 
 				<!--The Second row-->
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 right-row">
@@ -406,13 +394,10 @@
                                         </div>
                                         <div class="pricing-table-space"></div>
                                         <div class="pricing-table-insight">
-                                            <p><i class="fa fa-heartbeat" aria-hidden="true"></i> <strong>25</strong>Edukasi yang bisa dipilih sendiri</p>
-                                            <p><i class="fa fa-check-square-o" aria-hidden="true"></i> <strong>Ilmu</strong> pasti dapat dan berkesan</p>
-                                            <p><i class="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                            <p><i class="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p>Kesenian                                       </div>
+                                            <p>Menawarkan edukasi yang dapat dipilih sendiri dengan harga yang sangat  terjangkau</p>
+                                        </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Order Now</a>
+                                            <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Learn More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -423,15 +408,9 @@
                                             <h3>Dimulai dari <strong>Rp 60.000</strong></h3>
                                         </div>
                                         <div class="pricing-table-space"></div>
-                                        <div class="pricing-table-text">
-                                            <p>This is a perfect choice for small businesses and startups.</p>
-                                        </div>
                                         <div class="pricing-table-insight">
-                                            <p><i class="fa fa-envelope-o"></i> <strong>150</strong> Email Addresses</p>
-                                            <p><i class="fa fa-rocket"></i> <strong>65GB</strong> of Storage</p>
-                                            <p><i class="fa fa-database"></i> <strong>60</strong> Databases</p>
-                                            <p><i class="fa fa-link"></i> <strong>30</strong> Domains</p>
-                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p> Kesenian                                       </div>
+                                            <p>Menawarkan edukasi di Desa Wisata Samirono dengan paket harian yang tentunya menambah ilmu dan dimulai dengan harga terjangkau</p>
+                                         </div>
                                         <div class="pricing-table-sign-up">
                                             <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Learn More</a>
                                         </div>
@@ -446,13 +425,10 @@
                                         </div>
                                         <div class="pricing-table-space"></div>
                                         <div class="pricing-table-insight">
-                                            <p><i class="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses</p>
-                                            <p><i class="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
-                                            <p><i class="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                            <p><i class="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                            <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> kesenian</p>Kesenian                                       </div>
+                                            <p>Menawarkan edukasi bersifat menginap. Mendapatkan ilmu yang berguna dan pastinya <strong>akan sangat berguna ilmu tersebut</strong></p>
+                                          </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Order Now</a>
+                                            <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Learn More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -582,74 +558,13 @@
             </div><!-- end row -->
         </div><!-- end container -->
     </div><!-- end section --> 
-
-    <footer class="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                    <div class="widget clearfix">
-                        <div class="widget-title">
-                            <img src="{{ asset('assets/template/images/logos/logo-app.png') }}" alt="">
-                            <small>App Landing Template</small>                        </div>
-                        <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>
-                        <p>Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>
-                    </div><!-- end clearfix -->
-                </div><!-- end col -->
-
-                <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
-                    <div class="widget clearfix">
-                        <div class="widget-title">
-                            <h3>Contact Details</h3>
-                        </div>
-
-                        <ul class="footer-links">
-                            <li><a href="mailto:#">info@yoursite.com</a></li>
-                            <li><a href="#">www.yoursite.com</a></li>
-                            <li>91 Leeton Ridge Lane Bettendorf, IA 52722</li>
-                            <li>+61 3 8376 6000</li>
-                        </ul><!-- end links -->
-                    </div><!-- end clearfix -->
-                </div><!-- end col -->
-
-                <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
-                    <div class="footer-distributed widget clearfix">
-                        <div class="widget-title">
-                            <h3>Newsletter</h3>
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p>
-                        </div>
-						<div class="footer-right">
-							<form method="get" action="#">
-								<input placeholder="Subscribe our newsletter.." name="search">
-								<i class="fa fa-envelope-o"></i>
-							</form>
-						</div>
-                    </div><!-- end clearfix -->
-                </div><!-- end col -->
-
-                <div class="col-lg-2 col-md-6 col-sm-12 col-xs-12">
-                    <div class="widget clearfix">
-                        <div class="widget-title">
-                            <h3>Social</h3>
-                        </div>
-                        <ul class="footer-links">
-                            <li><a href="#"><i class="fa fa-facebook"></i> Facebook</a></li>
-                            <li><a href="#"><i class="fa fa-github"></i> Github</a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i> Twitter</a></li>
-                            <li><a href="#"><i class="fa fa-dribbble"></i> Dribbble</a></li>
-                            <li><a href="#"><i class="fa fa-pinterest"></i> Pinterest</a></li>
-                        </ul><!-- end links -->
-                    </div><!-- end clearfix -->
-                </div><!-- end col -->
-            </div><!-- end row -->
-        </div><!-- end container -->
-    </footer><!-- end footer -->
-
+    
     <div class="copyrights">
         <div class="container">
             <div class="footer-distributed">
                 <div class="footer-left">                    
-                    <p class="footer-company-name">All Rights Reserved. &copy; 2018 <a href="#">Appfast</a> Design By : 
-					<a href="https://html.design/">html design</a></p>
+                    <p class="footer-company-name">The Team. &copy; 2024 <a href="#">Desa Wisata Samirono </a> Design By : 
+					<a href="https://html.design/">Angelo Arasy Buana</a></p>
                 </div>
             </div>
         </div><!-- end container -->

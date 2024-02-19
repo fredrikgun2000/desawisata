@@ -359,21 +359,21 @@ a img.aligncenter {
 	font-size: 18px;
 	border: 1px solid #ffffff;
 	color: #ffffff;
-	background-color: #AD1457;
+	background-color: #12372A;
 	line-height: 25px;
 	float: right;
 	font-weight: 500;
 }
 
 .right-btn a:hover{
-	background-color: #C62828;
+	background-color: #12372A;
 	color: #ffffff;
-	border: 1px solid #C62828;
+	border: 1px solid #12372A;
 }
 
 /*Navbar Toogle*/
 .navbar-toggler {
-	background: #C62828;
+	background: #12372A;
 	border: none;
 	padding: 10px 6px;
 	outline: none !important;
@@ -403,13 +403,13 @@ a img.aligncenter {
 }
 
 .navbar-expand-lg .navbar-nav .nav-link:hover{
-	background: #AD1457;
+	background: #12372A;
 	color: #ffffff;
 	border-radius: 2px;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link.active{
-	background: #AD1457;
+	background: #12372A;
 	color: #ffffff;
 	font-weight: 600;
 	border-radius: 2px;
@@ -490,7 +490,7 @@ a img.aligncenter {
 
 .header_style_01 .navbar-default .navbar-nav > li:hover a,
 .header_style_01 .navbar-default .navbar-nav > li:focus a {
-    color: #C62828;
+    color: #12372A;
 }
 
 .header_style_01 .navbar-right > li {
@@ -520,7 +520,7 @@ li.social-links a {
 }
 
 li.social-links a:hover {
-	color: #C62828;
+	color: #12372A;
 }
 
 .header_style_01.fixed-menu{
@@ -933,7 +933,7 @@ body.app_version .header_style_01.fixed-menu{
 
 
 .testimonial:hover .testi-meta{
-	background: #C62828;
+	background: #12372A;
 }
 
 .testimonial:hover h4{
@@ -1276,7 +1276,7 @@ body.app_version .header_style_01.fixed-menu{
 }
 
 .hoverbutton {
-    background-color: #AD1457;
+    background-color: #12372A;
     position: absolute;
     color: #ffffff !important;
     top: 48%;
@@ -1501,7 +1501,7 @@ body.app_version .customwidget li i{
     border-radius: 6px;
     font-size: 26px;
 	color: #ffffff;
-    background-color: #AD1457;
+    background-color: #12372A;
     margin: 0 auto 22px;
     position: relative;
     text-align: center;
@@ -1719,14 +1719,14 @@ body.app_version .bootstrap-select .btn-light:hover{
 }
 
 .tooltip-inner {
-    background: #C62828; 
+    background: #12372A; 
     color: #fff;
 }
 .tooltip.bs-tooltip-auto[x-placement^=right] .arrow::before, .tooltip.bs-tooltip-right .arrow::before {
     margin-top: -3px;
     content: "";
     border-width: 5px 5px 5px 0;
-    border-right-color: #C62828;
+    border-right-color: #12372A;
 }
 
 
@@ -2144,7 +2144,7 @@ body.app_version .dev-list .widget-title small{
      left: 0;
      margin: 0px;
      height: 2px;
-     background: #AD1457;
+     background: #12372A;
      visibility: hidden;
      transition: all 0.45s ease;
      -webkit-transition: all 0.45s ease;
@@ -2285,7 +2285,7 @@ body.app_version .dev-list .widget-title small{
      -moz-border-radius: 50%;
 }
  .highlight.active .highlight-title span {
-    background: crimson;
+    background: #12372A;
      webkit-transform: scale(0.93);
     -moz-transform: scale(0.93);
     -ms-transform: scale(0.93);
