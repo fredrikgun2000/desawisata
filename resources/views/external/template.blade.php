@@ -1,40 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <!-- Basic -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">   
-   
-    <!-- Mobile Metas -->
-    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
- 
-     <!-- Site Metas -->
-    <title>Desa Wisata Samirono</title>  
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <meta name="author" content="">
+<!-- Basic -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <!-- Site Icons -->
-    <link rel="shortcut icon" href="{{ asset('assets/template/images/logos/Logo Samirono Grafis (No BG).png') }}" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="{{ asset('assets/template/images/apple-touch-icon.png') }}">
+<!-- Mobile Metas -->
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="{{ asset('assets/template/css/bootstrap.min.css') }}">
-    <!-- Site CSS -->
-    <link rel="stylesheet" href="{{ asset('assets/template/style.css') }}">    
-    <!-- ALL VERSION CSS -->
-    <link rel="stylesheet" href="{{ asset('assets/template/css/versions.css') }}">
-    <!-- Responsive CSS -->
-    <link rel="stylesheet" href="{{ asset('assets/template/css/responsive.css') }}">
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ asset('assets/template/css/custom.css') }}">
+<!-- Site Metas -->
+<title>Desa Wisata Samirono</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="author" content="">
 
-    <!--[if lt IE 9]>
+<!-- Site Icons -->
+<link rel="shortcut icon" href="{{ asset('assets/template/images/logos/Logo Samirono Grafis (No BG).png') }}" type="image/x-icon" />
+<link rel="apple-touch-icon" href="{{ asset('assets/template/images/apple-touch-icon.png') }}">
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="{{ asset('assets/template/css/bootstrap.min.css') }}">
+<!-- Site CSS -->
+<link rel="stylesheet" href="{{ asset('assets/template/style.css') }}">
+<!-- ALL VERSION CSS -->
+<link rel="stylesheet" href="{{ asset('assets/template/css/versions.css') }}">
+<!-- Responsive CSS -->
+<link rel="stylesheet" href="{{ asset('assets/template/css/responsive.css') }}">
+<!-- Custom CSS -->
+<link rel="stylesheet" href="{{ asset('assets/template/css/custom.css') }}">
+
+<!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
 </head>
+
 <body class="app_version" data-spy="scroll" data-target="#navbarApp" data-offset="98">
 
     <!-- LOADER -->
@@ -45,18 +46,18 @@
     <header class="header header_style_01">
         <nav class="navbar header-nav navbar-expand-lg">
             <div class="container">
-				<a class="navbar-brand" href="index.html"><img src="{{ asset('assets/template/images/logo samirono teks.png') }}" alt="image"></a>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarApp" aria-controls="navbarApp" aria-expanded="false" aria-label="Toggle navigation">
-					<span></span>
-					<span></span>
-					<span></span>
-				</button>
+                <a class="navbar-brand" href="index.html"><img src="{{ asset('assets/template/images/logo samirono teks.png') }}" alt="image"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarApp" aria-controls="navbarApp" aria-expanded="false" aria-label="Toggle navigation">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarApp">
                     <ul class="navbar-nav">
                         <li><a class="nav-link active" href="#home">Home</a></li>
                         <li><a class="nav-link" href="#insight">Insight</a></li>
                         <li><a class="nav-link" href="#edukasi">Edukasi</a></li>
-						<li><a class="nav-link" href="#kesenian">Kesenian</a></li>
+                        <li><a class="nav-link" href="#kesenian">Kesenian</a></li>
                         <li><a class="nav-link" href="#produk">Produk Olahan</a></li>
                         <li><a class="nav-link" href="#paket">Paket Wisata</a></li>
                     </ul>
@@ -72,7 +73,7 @@
                     <div class="big-tagline">
                         <h2>Desa Wisata Samirono</h2>
                         <p class="lead">
-                        Adalah Desa Sentra Peternakan Sapi Perah Rakyat di Kecamatan Getasan Kabupaten Semarang Provinsi Jawa Tengah.
+                            Adalah Desa Sentra Peternakan Sapi Perah Rakyat di Kecamatan Getasan Kabupaten Semarang Provinsi Jawa Tengah.
                         </p>
                     </div>
                 </div>
@@ -82,41 +83,46 @@
 
     <div id="insight" class="section wb">
         <div class="container">
-            <div class="section-title text-center">
-                <h3>Insight</h3>
-                <p class="lead">Artikel tentang Desa Wisata</p>
-            </div><!-- end title -->
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-title text-center">
+                        <h3>Insight</h3>
+                        <p class="lead">Artikel tentang Desa Wisata</p>
+                    </div><!-- end title -->
+                </div>
+            </div>
 
-            <div id="default" class="row clearfix zenith_slider">
-                  
-				<!--The First row-->  
-				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 left-row">
-					<ul class="insight-left">
-						<li class="highlight lhgh" data-index="0">
-							<i class="flaticon-wordpress-logo effect-1" ></i>
-							<div class="fl-inner">
-								<h4>Kenapa Desa?</h4>
-								<p>Apa yang kita dapatkan dari desa?</p>
-                                <img src="{{ asset('assets/template/uploads/Artkel 1.png') }}" alt="">
-							</div>
-						</li><!-- .highlight .left-row -->					
-					</ul>
-				</div><!-- .row .left-row -->
+            <div id="default" class="row">
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-12">
+                            <h5 class="font-weight-bold text-primary">
+                                New Article
+                            </h5>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="row" id="blog_space">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <h5 class="font-weight-bold text-success">
+                                New Infographic
+                            </h5>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="row" id="infograp_space">
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-				<!--The Second row-->
-				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 right-row">
-					<ul class="insight-right">
-						<li class="highlight rhgh" data-index="4">
-							<i class="flaticon-pantone effect-1"></i>							 
-							<div class="fr-inner">
-								<h4>Desa Wisata Samirono?</h4>
-								<p>Apa itu desa wisata?</p>
-							</div>
-						</li><!-- .highlight .left-row -->
-					</ul>
-				</div><!-- .row .left-row -->
-			  
-			</div><!--Highlights close-->
+            </div><!--Highlights close-->
         </div><!-- end container -->
     </div><!-- end section -->
 
@@ -343,7 +349,7 @@
             </div><!-- end row -->
         </div><!-- end container -->
     </div><!-- end section -->
-    
+
     <div class="parallax section" style="background-image:url('assets/template/uploads/bg_img_2.jpg');">
         <div class="container">
             <div class="row text-left stat-wrap">
@@ -394,7 +400,7 @@
                                         </div>
                                         <div class="pricing-table-space"></div>
                                         <div class="pricing-table-insight">
-                                            <p>Menawarkan edukasi yang dapat dipilih sendiri dengan harga yang sangat  terjangkau</p>
+                                            <p>Menawarkan edukasi yang dapat dipilih sendiri dengan harga yang sangat terjangkau</p>
                                         </div>
                                         <div class="pricing-table-sign-up">
                                             <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Learn More</a>
@@ -410,7 +416,7 @@
                                         <div class="pricing-table-space"></div>
                                         <div class="pricing-table-insight">
                                             <p>Menawarkan edukasi di Desa Wisata Samirono dengan paket harian yang tentunya menambah ilmu dan dimulai dengan harga terjangkau</p>
-                                         </div>
+                                        </div>
                                         <div class="pricing-table-sign-up">
                                             <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Learn More</a>
                                         </div>
@@ -426,7 +432,7 @@
                                         <div class="pricing-table-space"></div>
                                         <div class="pricing-table-insight">
                                             <p>Menawarkan edukasi bersifat menginap. Mendapatkan ilmu yang berguna dan pastinya <strong>akan sangat berguna ilmu tersebut</strong></p>
-                                          </div>
+                                        </div>
                                         <div class="pricing-table-sign-up">
                                             <a href="#" class="btn btn-dark btn-radius btn-brd grd1 effect-1">Learn More</a>
                                         </div>
@@ -538,33 +544,34 @@
             </div><!-- end title -->
 
             <div class="row">
-				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="btn-buy apple-button">
                         <a href="#"><i class="flaticon-android alignleft"></i> Download on the <strong>Google Play</strong></a>
                     </div>
-                </div><!-- end col --> 
-				
+                </div><!-- end col -->
+
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="btn-buy apple-button">
                         <a href="#"><i class="flaticon-apple alignleft"></i> Download on the <strong>App Store</strong></a>
                     </div>
-                </div><!-- end col -->  
+                </div><!-- end col -->
 
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="btn-buy apple-button">
                         <a href="#"><i class="flaticon-windows alignleft"></i> Download on the <strong>Windows</strong></a>
                     </div>
-                </div><!-- end col -->  
+                </div><!-- end col -->
             </div><!-- end row -->
         </div><!-- end container -->
-    </div><!-- end section --> 
-    
+    </div><!-- end section -->
+
     <div class="copyrights">
         <div class="container">
             <div class="footer-distributed">
-                <div class="footer-left">                    
-                    <p class="footer-company-name">The Team. &copy; 2024 <a href="#">Desa Wisata Samirono </a> Design By : 
-					<a href="https://html.design/">Angelo Arasy Buana</a></p>
+                <div class="footer-left">
+                    <p class="footer-company-name">The Team. &copy; 2024 <a href="#">Desa Wisata Samirono </a> Design By :
+                        <a href="https://html.design/">Angelo Arasy Buana</a>
+                    </p>
                 </div>
             </div>
         </div><!-- end container -->
@@ -576,14 +583,51 @@
     <script src="{{ asset('assets/template/js/all.js') }}"></script>
     <!-- ALL PLUGINS -->
     <script src="{{ asset('assets/template/js/custom.js') }}"></script>
-	<script src="{{ asset('assets/template/js/zenith.js') }}"></script>
-	<script>
-		$('#default').zenith({
-			layout: 'default' , 
-			slideSpeed: 450, 
-			autoplaySpeed: 2000
-		});
-	</script>
+    <script src="{{ asset('assets/template/js/zenith.js') }}"></script>
+    <script>
+        $('#default').zenith({
+            layout: 'default',
+            slideSpeed: 450,
+            autoplaySpeed: 2000
+        });
+    </script>
+
+    <script>
+        $(document).ready(function() {
+            blogger();
+        });
+
+
+
+        function blogger() {
+            $.ajax({
+                url: 'https://www.googleapis.com/blogger/v3/blogs/1737403564948905376/posts?key=AIzaSyD5XHtATGcOqc09is2J51v1Le_MKk2MuX4',
+                type: 'GET',
+                dataType: 'json',
+                success: function(data) {
+                    $('#blog_space').empty();
+                    $.each(data.items, function(index, value) {
+                        var published = new Date(value.published).toLocaleDateString();
+                        $('#blog_space').append(
+                            `<div class="col-lg-3 col-md-4 col-12">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <h4 class="card-title font-weight-bold">${value.title}</h4>
+                                            <p class="card-text">
+                                                <b>${published}</b> - ${value.author.displayName}
+                                            </p>
+                                            <a href="${value.url}" class="btn btn-primary">Go somewhere</a>
+                                        </div>
+                                    </div>
+                                </div>`
+                        );
+                    });
+
+                }
+            })
+        }
+    </script>
 
 </body>
+
 </html>
